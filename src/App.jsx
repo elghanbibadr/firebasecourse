@@ -1,5 +1,5 @@
 import React from 'react'
-import Auth from './componenet/auth'
+import Auth from './componenet/Auth'
 
 const App = () => {
   return (
